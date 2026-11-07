@@ -1,0 +1,390 @@
+﻿Title,Activo,TipoMovimiento,CustodioNombre,CustodioCorreo,Area,SedeDestino,FechaMovimiento,RegistradoPor,ActaAceptada,Observaciones
+MOV-00001,VYE-0001,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2021-11-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00002,VYE-0002,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2023-10-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00003,VYE-0003,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2023-09-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00004,VYE-0004,Asignación,Mateo Mejía,mateo.mejia@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2019-11-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00005,VYE-0006,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Bodega Central,2026-02-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00006,VYE-0007,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2019-09-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00007,VYE-0008,Asignación,Héctor Ospina,hector.ospina@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2019-06-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00008,VYE-0009,Asignación,Juan Muñoz,juan.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-01-31,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00009,VYE-0011,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2020-04-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00010,VYE-0012,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Operación Minera Norte,2026-01-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00011,VYE-0013,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2025-08-29,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00012,VYE-0015,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-01-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00013,VYE-0016,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-05-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00014,VYE-0017,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2026-04-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00015,VYE-0018,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2024-01-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00016,VYE-0019,Asignación,Ana Mejía,ana.mejia@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2020-07-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00017,VYE-0021,Asignación,Carlos Gómez,carlos.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2020-03-31,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00018,VYE-0022,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-10-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00019,VYE-0024,Asignación,Natalia Toro,natalia.toro@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-06-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00020,VYE-0026,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-11-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00021,VYE-0027,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2021-08-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00022,VYE-0028,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2020-06-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00023,VYE-0029,Asignación,Héctor Ospina,hector.ospina@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2022-06-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00024,VYE-0030,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-06-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00025,VYE-0031,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2019-04-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00026,VYE-0032,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2023-01-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00027,VYE-0033,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Operación Vial Oriente,2019-04-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00028,VYE-0034,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-10-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00029,VYE-0035,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2024-08-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00030,VYE-0037,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Sede Principal,2022-02-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00031,VYE-0038,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Bodega Central,2020-11-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00032,VYE-0040,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Sede Principal,2022-04-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00033,VYE-0042,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-07-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00034,VYE-0043,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-12-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00035,VYE-0046,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-10-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00036,VYE-0047,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2023-08-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00037,VYE-0048,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2021-07-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00038,VYE-0049,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-03-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00039,VYE-0051,Asignación,Felipe Rendón,felipe.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2021-07-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00040,VYE-0052,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2024-04-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00041,VYE-0053,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2020-02-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00042,VYE-0055,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Bodega Central,2021-06-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00043,VYE-0056,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2026-01-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00044,VYE-0057,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2022-02-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00045,VYE-0058,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2022-11-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00046,VYE-0059,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2020-05-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00047,VYE-0060,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2023-05-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00048,VYE-0061,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Sede Principal,2021-05-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00049,VYE-0062,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-06-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00050,VYE-0063,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-06-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00051,VYE-0064,Asignación,Héctor Ospina,hector.ospina@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-12-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00052,VYE-0065,Asignación,Laura Muñoz,laura.munoz@viasyexplanaciones.demo,Dirección,Sede Principal,2023-05-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00053,VYE-0066,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2026-01-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00054,VYE-0067,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Bodega Central,2020-09-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00055,VYE-0068,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-11-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00056,VYE-0069,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-11-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00057,VYE-0070,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Sede Principal,2023-04-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00058,VYE-0072,Asignación,Natalia Toro,natalia.toro@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-10-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00059,VYE-0074,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2019-12-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00060,VYE-0076,Asignación,Carlos Gómez,carlos.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2021-12-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00061,VYE-0077,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Sede Principal,2026-08-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00062,VYE-0078,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2026-01-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00063,VYE-0080,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Operación Minera Norte,2024-08-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00064,VYE-0081,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2025-04-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00065,VYE-0082,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-09-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00066,VYE-0083,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-01-10,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00067,VYE-0085,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2018-09-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00068,VYE-0086,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2023-08-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00069,VYE-0087,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-09-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00070,VYE-0089,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Operación Vial Oriente,2020-08-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00071,VYE-0090,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2026-02-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00072,VYE-0091,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2020-10-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00073,VYE-0092,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2022-08-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00074,VYE-0093,Asignación,Mateo Mejía,mateo.mejia@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2023-04-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00075,VYE-0094,Asignación,Héctor Ospina,hector.ospina@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-11-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00076,VYE-0096,Asignación,Carlos Gómez,carlos.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2022-05-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00077,VYE-0097,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2025-07-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00078,VYE-0098,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-04-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00079,VYE-0099,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2026-02-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00080,VYE-0100,Asignación,Valentina Gómez,valentina.gomez@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-01-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00081,VYE-0101,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2024-10-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00082,VYE-0103,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2026-01-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00083,VYE-0104,Asignación,Diana Vélez,diana.velez@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2019-02-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00084,VYE-0105,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2018-09-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00085,VYE-0106,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Bodega Central,2018-11-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00086,VYE-0107,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2023-04-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00087,VYE-0108,Asignación,Juan Muñoz,juan.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-06-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00088,VYE-0109,Asignación,Natalia Arango,natalia.arango@viasyexplanaciones.demo,Dirección,Sede Principal,2022-03-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00089,VYE-0110,Asignación,Felipe Rendón,felipe.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2024-05-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00090,VYE-0111,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2022-08-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00091,VYE-0112,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2024-11-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00092,VYE-0114,Asignación,Ana Mejía,ana.mejia@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2025-06-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00093,VYE-0115,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-03-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00094,VYE-0116,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2021-07-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00095,VYE-0118,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2021-07-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00096,VYE-0119,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-08-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00097,VYE-0120,Asignación,Juan Muñoz,juan.munoz@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2022-03-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00098,VYE-0121,Asignación,Diana Vélez,diana.velez@viasyexplanaciones.demo,Dirección,Sede Principal,2022-12-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00099,VYE-0122,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-04-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00100,VYE-0123,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2019-03-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00101,VYE-0125,Asignación,Juan Muñoz,juan.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-06-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00102,VYE-0126,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-07-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00103,VYE-0127,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Operación Minera Norte,2024-04-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00104,VYE-0129,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-09-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00105,VYE-0131,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2017-12-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00106,VYE-0134,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2023-12-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00107,VYE-0135,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2020-07-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00108,VYE-0136,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2024-02-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00109,VYE-0137,Asignación,Natalia Arango,natalia.arango@viasyexplanaciones.demo,Dirección,Sede Principal,2019-11-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00110,VYE-0138,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-10-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00111,VYE-0139,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2023-07-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00112,VYE-0140,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2021-09-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00113,VYE-0141,Asignación,Mateo Mejía,mateo.mejia@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-10-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00114,VYE-0142,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-05-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00115,VYE-0143,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2026-08-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00116,VYE-0144,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-01-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00117,VYE-0145,Asignación,Ana Arango,ana.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-06-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00118,VYE-0147,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2021-08-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00119,VYE-0148,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-05-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00120,VYE-0149,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2024-08-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00121,VYE-0150,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Bodega Central,2024-11-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00122,VYE-0152,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2019-08-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00123,VYE-0153,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2019-06-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00124,VYE-0154,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Bodega Central,2022-06-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00125,VYE-0156,Asignación,Ana Arango,ana.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-09-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00126,VYE-0157,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2022-11-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00127,VYE-0158,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-11-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00128,VYE-0159,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2023-09-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00129,VYE-0160,Asignación,Ana Arango,ana.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-12-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00130,VYE-0161,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Sede Principal,2019-05-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00131,VYE-0162,Asignación,Juan Muñoz,juan.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2026-08-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00132,VYE-0163,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-01-10,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00133,VYE-0164,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Operación Vial Oriente,2019-06-29,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00134,VYE-0166,Asignación,Felipe Londoño,felipe.londono@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-01-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00135,VYE-0167,Asignación,Óscar Vélez,oscar.velez@viasyexplanaciones.demo,TI,Sede Principal,2026-03-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00136,VYE-0168,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2021-11-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00137,VYE-0169,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Bodega Central,2026-03-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00138,VYE-0170,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2021-05-29,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00139,VYE-0171,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Bodega Central,2017-12-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00140,VYE-0172,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2023-02-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00141,VYE-0173,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-07-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00142,VYE-0174,Asignación,Felipe Quintero,felipe.quintero@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2019-01-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00143,VYE-0176,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-01-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00144,VYE-0177,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Sede Principal,2025-12-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00145,VYE-0178,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2017-12-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00146,VYE-0179,Asignación,Felipe Londoño,felipe.londono@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-07-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00147,VYE-0180,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2023-11-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00148,VYE-0182,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2018-11-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00149,VYE-0183,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Bodega Central,2023-10-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00150,VYE-0187,Asignación,Ana Arango,ana.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-04-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00151,VYE-0188,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Sede Principal,2026-04-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00152,VYE-0189,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-06-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00153,VYE-0190,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2018-10-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00154,VYE-0192,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Operación Vial Oriente,2026-03-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00155,VYE-0194,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Bodega Central,2021-06-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00156,VYE-0195,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2018-04-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00157,VYE-0197,Asignación,Héctor Zapata,hector.zapata@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-10-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00158,VYE-0198,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2020-07-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00159,VYE-0199,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-01-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00160,VYE-0200,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2019-05-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00161,VYE-0201,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-12-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00162,VYE-0202,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2022-05-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00163,VYE-0204,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2020-06-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00164,VYE-0206,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2019-09-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00165,VYE-0207,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-11-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00166,VYE-0209,Asignación,Laura Muñoz,laura.munoz@viasyexplanaciones.demo,Dirección,Sede Principal,2023-06-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00167,VYE-0210,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-06-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00168,VYE-0211,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2019-09-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00169,VYE-0212,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-02-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00170,VYE-0213,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-02-10,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00171,VYE-0214,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2023-01-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00172,VYE-0216,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2025-11-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00173,VYE-0217,Asignación,Felipe Londoño,felipe.londono@viasyexplanaciones.demo,Talento Humano,Bodega Central,2019-02-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00174,VYE-0218,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-03-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00175,VYE-0219,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2018-08-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00176,VYE-0220,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-01-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00177,VYE-0221,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2023-02-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00178,VYE-0223,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2019-02-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00179,VYE-0224,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Operación Minera Norte,2022-05-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00180,VYE-0225,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-05-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00181,VYE-0226,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2026-06-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00182,VYE-0227,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-01-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00183,VYE-0228,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2020-02-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00184,VYE-0229,Asignación,Natalia Toro,natalia.toro@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-05-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00185,VYE-0230,Asignación,Carlos Gómez,carlos.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2026-04-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00186,VYE-0232,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2020-12-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00187,VYE-0235,Asignación,Felipe Quintero,felipe.quintero@viasyexplanaciones.demo,Talento Humano,Bodega Central,2022-09-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00188,VYE-0236,Asignación,Valentina Gómez,valentina.gomez@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-02-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00189,VYE-0238,Asignación,Mateo Mejía,mateo.mejia@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-08-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00190,VYE-0239,Asignación,Valentina Gómez,valentina.gomez@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-03-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00191,VYE-0240,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2020-01-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00192,VYE-0241,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Sede Principal,2020-08-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00193,VYE-0242,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-07-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00194,VYE-0243,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2018-09-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00195,VYE-0244,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-03-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00196,VYE-0246,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-09-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00197,VYE-0247,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-03-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00198,VYE-0248,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2020-09-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00199,VYE-0249,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2020-11-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00200,VYE-0250,Asignación,Laura Muñoz,laura.munoz@viasyexplanaciones.demo,Dirección,Sede Principal,2022-11-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00201,VYE-0251,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-02-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00202,VYE-0252,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2023-05-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00203,VYE-0253,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2020-12-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00204,VYE-0254,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2024-12-29,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00205,VYE-0257,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2023-08-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00206,VYE-0259,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2021-06-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00207,VYE-0260,Asignación,Diana Vélez,diana.velez@viasyexplanaciones.demo,Dirección,Sede Principal,2022-07-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00208,VYE-0261,Asignación,Sandra Vélez,sandra.velez@viasyexplanaciones.demo,TI,Sede Principal,2023-04-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00209,VYE-0263,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Sede Principal,2020-09-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00210,VYE-0264,Asignación,Felipe Rendón,felipe.rendon@viasyexplanaciones.demo,Talento Humano,Bodega Central,2023-11-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00211,VYE-0267,Asignación,Felipe Londoño,felipe.londono@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-04-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00212,VYE-0268,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2021-10-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00213,VYE-0269,Asignación,Felipe Rendón,felipe.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2020-07-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00214,VYE-0271,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2018-07-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00215,VYE-0272,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2021-05-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00216,VYE-0273,Asignación,Valentina Gómez,valentina.gomez@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-02-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00217,VYE-0274,Asignación,Diana Vélez,diana.velez@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2025-02-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00218,VYE-0275,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2022-12-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00219,VYE-0278,Asignación,Mateo Mejía,mateo.mejia@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2021-06-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00220,VYE-0279,Asignación,Felipe Quintero,felipe.quintero@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-01-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00221,VYE-0281,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2025-09-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00222,VYE-0282,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Sede Principal,2025-09-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00223,VYE-0286,Asignación,Héctor Zapata,hector.zapata@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-06-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00224,VYE-0287,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2024-10-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00225,VYE-0288,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-04-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00226,VYE-0292,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-04-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00227,VYE-0293,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2024-06-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00228,VYE-0296,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2023-02-10,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00229,VYE-0297,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2020-12-31,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00230,VYE-0298,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2021-08-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00231,VYE-0299,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Sede Principal,2022-03-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00232,VYE-0300,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2024-10-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00233,VYE-0301,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-07-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00234,VYE-0302,Asignación,Óscar Vélez,oscar.velez@viasyexplanaciones.demo,TI,Sede Principal,2025-09-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00235,VYE-0303,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Sede Principal,2026-08-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00236,VYE-0305,Asignación,Laura Muñoz,laura.munoz@viasyexplanaciones.demo,Dirección,Sede Principal,2021-05-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00237,VYE-0307,Asignación,Juan Giraldo,juan.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-12-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00238,VYE-0308,Asignación,Laura Muñoz,laura.munoz@viasyexplanaciones.demo,Dirección,Sede Principal,2025-07-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00239,VYE-0309,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Sede Principal,2023-05-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00240,VYE-0310,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-04-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00241,VYE-0311,Asignación,Héctor Zapata,hector.zapata@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2026-07-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00242,VYE-0312,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2018-02-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00243,VYE-0313,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2022-09-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00244,VYE-0314,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2018-01-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00245,VYE-0315,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Sede Principal,2023-12-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00246,VYE-0317,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2018-03-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00247,VYE-0318,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2022-06-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00248,VYE-0321,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2023-12-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00249,VYE-0323,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-03-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00250,VYE-0325,Asignación,Mateo Mejía,mateo.mejia@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2022-12-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00251,VYE-0326,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2025-09-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00252,VYE-0327,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Sede Principal,2019-01-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00253,VYE-0328,Asignación,Juan Muñoz,juan.munoz@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2020-02-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00254,VYE-0329,Asignación,Laura Muñoz,laura.munoz@viasyexplanaciones.demo,Dirección,Sede Principal,2022-02-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00255,VYE-0331,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2025-12-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00256,VYE-0332,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Operación Minera Norte,2023-05-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00257,VYE-0335,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-03-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00258,VYE-0336,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2025-11-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00259,VYE-0337,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-02-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00260,VYE-0338,Asignación,Carlos Gómez,carlos.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2024-01-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00261,VYE-0339,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2023-11-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00262,VYE-0341,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-11-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00263,VYE-0342,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2021-03-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00264,VYE-0343,Asignación,Héctor Ospina,hector.ospina@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2020-01-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00265,VYE-0344,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-11-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00266,VYE-0345,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Bodega Central,2024-05-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00267,VYE-0346,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2018-08-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00268,VYE-0347,Asignación,Natalia Arango,natalia.arango@viasyexplanaciones.demo,Dirección,Sede Principal,2020-03-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00269,VYE-0348,Asignación,Ana Arango,ana.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-04-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00270,VYE-0351,Asignación,Natalia Toro,natalia.toro@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2025-03-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00271,VYE-0352,Asignación,Óscar Vélez,oscar.velez@viasyexplanaciones.demo,TI,Operación Vial Oriente,2022-09-17,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00272,VYE-0353,Asignación,Valentina Gómez,valentina.gomez@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-06-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00273,VYE-0354,Asignación,Felipe Quintero,felipe.quintero@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2021-03-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00274,VYE-0355,Asignación,Héctor Zapata,hector.zapata@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2020-07-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00275,VYE-0356,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-11-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00276,VYE-0357,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Operación Minera Norte,2021-07-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00277,VYE-0359,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2025-07-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00278,VYE-0360,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Sede Principal,2022-06-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00279,VYE-0361,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Sede Principal,2026-08-31,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00280,VYE-0362,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-07-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00281,VYE-0363,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Operación Minera Norte,2021-09-29,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00282,VYE-0367,Asignación,Ana Mejía,ana.mejia@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2021-12-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00283,VYE-0368,Asignación,Camila Giraldo,camila.giraldo@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2025-04-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00284,VYE-0369,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Operación Minera Norte,2018-02-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00285,VYE-0370,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2019-04-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00286,VYE-0371,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-12-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00287,VYE-0372,Asignación,Valentina Gómez,valentina.gomez@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2019-02-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00288,VYE-0373,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Sede Principal,2022-12-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00289,VYE-0374,Asignación,Sandra Henao,sandra.henao@viasyexplanaciones.demo,TI,Sede Principal,2024-03-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00290,VYE-0375,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-06-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00291,VYE-0376,Asignación,Héctor Ospina,hector.ospina@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2021-07-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00292,VYE-0377,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2019-04-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00293,VYE-0379,Asignación,Natalia Arango,natalia.arango@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2021-09-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00294,VYE-0380,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Operación Vial Oriente,2018-06-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00295,VYE-0382,Asignación,Natalia Toro,natalia.toro@viasyexplanaciones.demo,Talento Humano,Bodega Central,2026-02-01,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00296,VYE-0383,Asignación,Sandra Vélez,sandra.velez@viasyexplanaciones.demo,TI,Sede Principal,2025-04-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00297,VYE-0384,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2024-09-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00298,VYE-0385,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2026-05-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00299,VYE-0388,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-10-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00300,VYE-0389,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-11-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00301,VYE-0391,Asignación,Natalia Cardona,natalia.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2024-11-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00302,VYE-0392,Asignación,Felipe Rendón,felipe.rendon@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-05-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00303,VYE-0394,Asignación,Natalia Toro,natalia.toro@viasyexplanaciones.demo,Talento Humano,Bodega Central,2021-02-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00304,VYE-0395,Asignación,Ana Mejía,ana.mejia@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2024-04-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00305,VYE-0396,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-10-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00306,VYE-0398,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-06-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00307,VYE-0399,Asignación,Felipe Londoño,felipe.londono@viasyexplanaciones.demo,Talento Humano,Sede Principal,2026-09-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00308,VYE-0401,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Sede Principal,2023-09-15,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00309,VYE-0402,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Sede Principal,2025-06-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00310,VYE-0403,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2022-08-10,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00311,VYE-0404,Asignación,Héctor Ospina,hector.ospina@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2018-08-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00312,VYE-0405,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2020-12-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00313,VYE-0406,Asignación,Juan Muñoz,juan.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-06-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00314,VYE-0407,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2023-04-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00315,VYE-0409,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Sede Principal,2020-06-20,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00316,VYE-0411,Asignación,Felipe Rendón,felipe.rendon@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-06-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00317,VYE-0412,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2021-04-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00318,VYE-0413,Asignación,Héctor Zapata,hector.zapata@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2025-03-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00319,VYE-0414,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-01-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00320,VYE-0416,Asignación,Andrés Restrepo,andres.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2022-01-29,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00321,VYE-0417,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-10-31,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00322,VYE-0418,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2024-03-22,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00323,VYE-0419,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2024-08-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00324,VYE-0420,Asignación,Diana Vélez,diana.velez@viasyexplanaciones.demo,Dirección,Sede Principal,2024-05-19,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00325,VYE-0422,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-07-03,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00326,VYE-0423,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2024-10-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00327,VYE-0424,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-03-24,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00328,VYE-0426,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-01-13,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00329,VYE-0427,Asignación,Paula Toro,paula.toro@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2025-04-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00330,VYE-0429,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2019-08-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00331,VYE-0431,Asignación,Carlos Arango,carlos.arango@viasyexplanaciones.demo,Talento Humano,Bodega Central,2024-02-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00332,VYE-0433,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Operaciones / Campo,Operación Minera Norte,2025-04-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00333,VYE-0434,Asignación,Diana Vélez,diana.velez@viasyexplanaciones.demo,Dirección,Sede Principal,2021-03-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00334,VYE-0435,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2019-12-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00335,VYE-0436,Asignación,Valentina Restrepo,valentina.restrepo@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-09-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00336,VYE-0437,Asignación,María Rendón,maria.rendon@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2021-03-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00337,VYE-0438,Asignación,Sandra Vélez,sandra.velez@viasyexplanaciones.demo,TI,Sede Principal,2021-04-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00338,VYE-0439,Asignación,Camila Muñoz,camila.munoz@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-04-23,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00339,VYE-0441,Asignación,Diego Zapata,diego.zapata@viasyexplanaciones.demo,Dirección,Sede Principal,2025-11-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00340,VYE-0442,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-03-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00341,VYE-0443,Asignación,Diana Vélez,diana.velez@viasyexplanaciones.demo,Dirección,Sede Principal,2023-01-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00342,VYE-0444,Asignación,Natalia Arango,natalia.arango@viasyexplanaciones.demo,Dirección,Sede Principal,2020-05-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00343,VYE-0445,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Operación Vial Oriente,2025-03-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00344,VYE-0447,Asignación,Ana Arango,ana.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-01-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00345,VYE-0448,Asignación,Sandra Vélez,sandra.velez@viasyexplanaciones.demo,TI,Sede Principal,2019-12-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00346,VYE-0449,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-10-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00347,VYE-0450,Asignación,Héctor Zapata,hector.zapata@viasyexplanaciones.demo,Talento Humano,Sede Principal,2025-01-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00348,VYE-0451,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Sede Principal,2022-11-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00349,VYE-0452,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Sede Principal,2017-12-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00350,VYE-0453,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-06-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00351,VYE-0454,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Operación Vial Oriente,2020-09-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00352,VYE-0455,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Bodega Central,2024-05-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00353,VYE-0456,Asignación,Carlos Rendón,carlos.rendon@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2024-02-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00354,VYE-0457,Asignación,Héctor Zapata,hector.zapata@viasyexplanaciones.demo,Talento Humano,Bodega Central,2023-07-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00355,VYE-0458,Asignación,Óscar Cardona,oscar.cardona@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2023-01-28,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00356,VYE-0459,Asignación,Ana Quintero,ana.quintero@viasyexplanaciones.demo,Talento Humano,Bodega Central,2019-06-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00357,VYE-0460,Asignación,Sandra Vélez,sandra.velez@viasyexplanaciones.demo,TI,Sede Principal,2026-04-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00358,VYE-0461,Asignación,Felipe Toro,felipe.toro@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2021-02-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00359,VYE-0462,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2019-06-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00360,VYE-0463,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-10-05,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00361,VYE-0464,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2019-06-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00362,VYE-0465,Asignación,Héctor Londoño,hector.londono@viasyexplanaciones.demo,Operaciones / Campo,Bodega Central,2025-11-04,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00363,VYE-0466,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2026-01-31,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00364,VYE-0467,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-02-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00365,VYE-0468,Asignación,Óscar Vélez,oscar.velez@viasyexplanaciones.demo,TI,Operación Minera Norte,2018-11-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00366,VYE-0469,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Sede Principal,2019-03-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00367,VYE-0470,Asignación,Sandra Gómez,sandra.gomez@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2021-09-30,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00368,VYE-0471,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-01-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00369,VYE-0472,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Sede Principal,2020-01-07,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00370,VYE-0473,Asignación,Natalia Arango,natalia.arango@viasyexplanaciones.demo,Dirección,Sede Principal,2019-07-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00371,VYE-0475,Asignación,Mateo Ospina,mateo.ospina@viasyexplanaciones.demo,Talento Humano,Sede Principal,2021-04-11,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00372,VYE-0476,Asignación,Felipe Rendón,felipe.rendon@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-02-12,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00373,VYE-0477,Asignación,Laura Muñoz,laura.munoz@viasyexplanaciones.demo,Dirección,Sede Principal,2020-06-10,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00374,VYE-0479,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2021-06-14,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00375,VYE-0480,Asignación,Valentina Giraldo,valentina.giraldo@viasyexplanaciones.demo,TI,Operación Minera Norte,2020-08-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00376,VYE-0481,Asignación,Sandra Vélez,sandra.velez@viasyexplanaciones.demo,TI,Operación Minera Norte,2018-07-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00377,VYE-0482,Asignación,Lina Zapata,lina.zapata@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2026-08-18,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00378,VYE-0483,Asignación,Natalia Arango,natalia.arango@viasyexplanaciones.demo,Dirección,Sede Principal,2021-04-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00379,VYE-0484,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Sede Principal,2018-04-09,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00380,VYE-0485,Asignación,Felipe Londoño,felipe.londono@viasyexplanaciones.demo,Talento Humano,Sede Principal,2020-08-08,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00381,VYE-0486,Asignación,Lina Quintero,lina.quintero@viasyexplanaciones.demo,Administrativa / Financiera,Sede Principal,2020-02-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00382,VYE-0487,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Operaciones / Campo,Sede Principal,2022-08-27,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00383,VYE-0489,Asignación,Ana Arango,ana.arango@viasyexplanaciones.demo,Talento Humano,Sede Principal,2022-06-25,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00384,VYE-0491,Asignación,Lina Cardona,lina.cardona@viasyexplanaciones.demo,Operaciones / Campo,Operación Vial Oriente,2019-09-06,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00385,VYE-0493,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Sede Principal,2026-01-02,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00386,VYE-0494,Asignación,Andrés Mejía,andres.mejia@viasyexplanaciones.demo,Talento Humano,Operación Minera Norte,2022-07-21,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00387,VYE-0495,Asignación,María Henao,maria.henao@viasyexplanaciones.demo,Dirección,Operación Minera Norte,2023-05-26,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00388,VYE-0498,Asignación,Carlos Restrepo,carlos.restrepo@viasyexplanaciones.demo,Dirección,Operación Vial Oriente,2023-12-16,Mesa de ayuda TI,Sí,Carga inicial
+MOV-00389,VYE-0500,Asignación,Natalia Toro,natalia.toro@viasyexplanaciones.demo,Talento Humano,Sede Principal,2024-07-10,Mesa de ayuda TI,Sí,Carga inicial

@@ -1,0 +1,188 @@
+﻿Title,Activo,TipoMantenimiento,EstadoMantenimiento,FechaProgramada,FechaRealizada,Tecnico,Costo,Descripcion
+MNT-00001,VYE-0002,Preventivo,Finalizado,2023-12-16,2023-12-16,Técnico TI 2,0,Reinstalación de SO
+MNT-00002,VYE-0004,Preventivo,Finalizado,2023-11-07,2023-11-07,Proveedor externo,0,Revisión general
+MNT-00003,VYE-0006,Preventivo,Finalizado,2026-10-29,2026-10-29,Técnico TI 1,0,Revisión general
+MNT-00004,VYE-0009,Preventivo,Finalizado,2024-10-31,2024-10-31,Técnico TI 2,0,Limpieza y actualización
+MNT-00005,VYE-0012,Preventivo,Finalizado,2026-06-13,2026-06-13,Técnico TI 2,0,Reinstalación de SO
+MNT-00006,VYE-0018,Correctivo,Finalizado,2026-03-24,2026-03-24,Técnico TI 2,0,Revisión general
+MNT-00007,VYE-0019,Correctivo,Finalizado,2024-04-21,2024-04-21,Proveedor externo,0,Reinstalación de SO
+MNT-00008,VYE-0024,Correctivo,Finalizado,2023-06-06,2023-06-06,Proveedor externo,0,Cambio de disco a SSD
+MNT-00009,VYE-0025,Correctivo,Finalizado,2021-08-16,2021-08-16,Técnico TI 2,150000,Limpieza y actualización
+MNT-00010,VYE-0029,Correctivo,Finalizado,2024-10-28,2024-10-28,Técnico TI 2,0,Revisión general
+MNT-00011,VYE-0033,Preventivo,Finalizado,2022-05-20,2022-05-20,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00012,VYE-0036,Preventivo,Finalizado,2024-07-27,2024-07-27,Técnico TI 2,0,Ampliación de RAM
+MNT-00013,VYE-0037,Correctivo,Finalizado,2026-05-17,2026-05-17,Proveedor externo,0,Ampliación de RAM
+MNT-00014,VYE-0046,Preventivo,Finalizado,2026-04-24,2026-04-24,Técnico TI 2,0,Limpieza y actualización
+MNT-00015,VYE-0049,Preventivo,Finalizado,2026-10-11,2026-10-11,Técnico TI 1,0,Revisión general
+MNT-00016,VYE-0051,Preventivo,Finalizado,2023-10-12,2023-10-12,Técnico TI 2,0,Reinstalación de SO
+MNT-00017,VYE-0052,Preventivo,Finalizado,2024-11-28,2024-11-28,Técnico TI 1,0,Revisión general
+MNT-00018,VYE-0053,Preventivo,Finalizado,2024-10-09,2024-10-09,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00019,VYE-0056,Preventivo,Finalizado,2026-04-25,2026-04-25,Técnico TI 2,0,Limpieza y actualización
+MNT-00020,VYE-0058,Correctivo,Finalizado,2024-03-10,2024-03-10,Técnico TI 2,0,Reinstalación de SO
+MNT-00021,VYE-0060,Preventivo,Finalizado,2026-04-05,2026-04-05,Técnico TI 1,0,Revisión general
+MNT-00022,VYE-0065,Preventivo,Finalizado,2024-08-25,2024-08-25,Técnico TI 2,0,Reinstalación de SO
+MNT-00023,VYE-0070,Preventivo,Finalizado,2025-10-14,2025-10-14,Técnico TI 1,0,Limpieza y actualización
+MNT-00024,VYE-0071,Preventivo,En curso,2026-03-05,,Técnico TI 2,0,Reinstalación de SO
+MNT-00025,VYE-0073,Preventivo,Finalizado,2022-06-21,2022-06-21,Proveedor externo,0,Revisión general
+MNT-00026,VYE-0074,Preventivo,Finalizado,2022-09-23,2022-09-23,Técnico TI 2,0,Ampliación de RAM
+MNT-00027,VYE-0077,Preventivo,Finalizado,2026-10-06,2026-10-06,Proveedor externo,0,Ampliación de RAM
+MNT-00028,VYE-0080,Preventivo,Finalizado,2025-01-06,2025-01-06,Técnico TI 1,0,Limpieza y actualización
+MNT-00029,VYE-0081,Correctivo,Finalizado,2025-08-31,2025-08-31,Técnico TI 2,0,Limpieza y actualización
+MNT-00030,VYE-0086,Correctivo,Finalizado,2023-11-19,2023-11-19,Técnico TI 2,0,Limpieza y actualización
+MNT-00031,VYE-0090,Correctivo,Finalizado,2026-08-31,2026-08-31,Técnico TI 1,150000,Limpieza y actualización
+MNT-00032,VYE-0091,Preventivo,Finalizado,2022-04-03,2022-04-03,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00033,VYE-0092,Correctivo,Finalizado,2024-01-11,2024-01-11,Técnico TI 1,150000,Cambio de disco a SSD
+MNT-00034,VYE-0093,Preventivo,Finalizado,2024-11-07,2024-11-07,Técnico TI 2,0,Ampliación de RAM
+MNT-00035,VYE-0094,Preventivo,Finalizado,2021-08-14,2021-08-14,Técnico TI 1,0,Revisión general
+MNT-00036,VYE-0096,Correctivo,Finalizado,2026-06-12,2026-06-12,Técnico TI 1,150000,Limpieza y actualización
+MNT-00037,VYE-0098,Correctivo,Finalizado,2026-10-07,2026-10-07,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00038,VYE-0100,Preventivo,Finalizado,2026-10-22,2026-10-22,Proveedor externo,0,Cambio de disco a SSD
+MNT-00039,VYE-0101,Preventivo,Finalizado,2025-05-03,2025-05-03,Técnico TI 1,0,Revisión general
+MNT-00040,VYE-0103,Preventivo,Finalizado,2026-08-10,2026-08-10,Técnico TI 1,0,Ampliación de RAM
+MNT-00041,VYE-0109,Preventivo,Finalizado,2024-06-03,2024-06-03,Proveedor externo,0,Reinstalación de SO
+MNT-00042,VYE-0113,Preventivo,Finalizado,2021-06-05,2021-06-05,Técnico TI 1,0,Limpieza y actualización
+MNT-00043,VYE-0114,Preventivo,Finalizado,2025-09-10,2025-09-10,Proveedor externo,0,Limpieza y actualización
+MNT-00044,VYE-0116,Preventivo,Finalizado,2026-08-01,2026-08-01,Técnico TI 2,0,Limpieza y actualización
+MNT-00045,VYE-0119,Correctivo,Finalizado,2026-08-24,2026-08-24,Proveedor externo,350000,Reinstalación de SO
+MNT-00046,VYE-0122,Correctivo,Finalizado,2026-04-16,2026-04-16,Proveedor externo,350000,Revisión general
+MNT-00047,VYE-0125,Preventivo,Finalizado,2023-05-18,2023-05-18,Técnico TI 2,0,Reinstalación de SO
+MNT-00048,VYE-0126,Correctivo,Finalizado,2025-02-25,2025-02-25,Proveedor externo,350000,Revisión general
+MNT-00049,VYE-0128,Preventivo,En curso,2025-09-20,,Técnico TI 2,0,Revisión general
+MNT-00050,VYE-0129,Correctivo,Finalizado,2026-10-19,2026-10-19,Proveedor externo,80000,Reinstalación de SO
+MNT-00051,VYE-0130,Preventivo,Finalizado,2022-01-08,2022-01-08,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00052,VYE-0136,Preventivo,Finalizado,2024-12-30,2024-12-30,Proveedor externo,0,Limpieza y actualización
+MNT-00053,VYE-0139,Correctivo,Finalizado,2024-02-24,2024-02-24,Proveedor externo,0,Reinstalación de SO
+MNT-00054,VYE-0140,Preventivo,Finalizado,2023-12-24,2023-12-24,Técnico TI 1,0,Ampliación de RAM
+MNT-00055,VYE-0145,Preventivo,Finalizado,2023-06-16,2023-06-16,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00056,VYE-0146,Correctivo,Finalizado,2026-09-04,2026-09-04,Técnico TI 1,0,Revisión general
+MNT-00057,VYE-0147,Correctivo,Finalizado,2024-03-09,2024-03-09,Técnico TI 2,350000,Revisión general
+MNT-00058,VYE-0148,Preventivo,Finalizado,2025-08-22,2025-08-22,Técnico TI 1,0,Reinstalación de SO
+MNT-00059,VYE-0151,Preventivo,Finalizado,2026-10-27,2026-10-27,Proveedor externo,0,Cambio de disco a SSD
+MNT-00060,VYE-0155,Preventivo,Finalizado,2026-05-29,2026-05-29,Proveedor externo,0,Revisión general
+MNT-00061,VYE-0156,Preventivo,Finalizado,2023-04-30,2023-04-30,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00062,VYE-0159,Preventivo,Finalizado,2025-06-18,2025-06-18,Técnico TI 1,0,Reinstalación de SO
+MNT-00063,VYE-0160,Preventivo,Finalizado,2020-07-19,2020-07-19,Proveedor externo,0,Revisión general
+MNT-00064,VYE-0163,Preventivo,Finalizado,2019-02-27,2019-02-27,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00065,VYE-0167,Preventivo,Finalizado,2026-05-16,2026-05-16,Técnico TI 1,0,Reinstalación de SO
+MNT-00066,VYE-0172,Preventivo,Finalizado,2023-09-27,2023-09-27,Técnico TI 2,0,Ampliación de RAM
+MNT-00067,VYE-0178,Preventivo,Finalizado,2024-11-01,2024-11-01,Proveedor externo,0,Ampliación de RAM
+MNT-00068,VYE-0180,Preventivo,Finalizado,2026-03-27,2026-03-27,Técnico TI 1,0,Ampliación de RAM
+MNT-00069,VYE-0182,Preventivo,Finalizado,2019-02-18,2019-02-18,Técnico TI 1,0,Revisión general
+MNT-00070,VYE-0185,Preventivo,Finalizado,2018-06-10,2018-06-10,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00071,VYE-0186,Correctivo,Finalizado,2026-11-03,2026-11-03,Proveedor externo,0,Limpieza y actualización
+MNT-00072,VYE-0187,Preventivo,Finalizado,2025-12-10,2025-12-10,Proveedor externo,0,Reinstalación de SO
+MNT-00073,VYE-0189,Correctivo,Finalizado,2024-11-30,2024-11-30,Técnico TI 2,80000,Revisión general
+MNT-00074,VYE-0193,Correctivo,Finalizado,2024-09-16,2024-09-16,Técnico TI 2,0,Limpieza y actualización
+MNT-00075,VYE-0199,Correctivo,Finalizado,2021-05-13,2021-05-13,Técnico TI 2,150000,Revisión general
+MNT-00076,VYE-0200,Preventivo,Finalizado,2025-12-17,2025-12-17,Técnico TI 2,0,Ampliación de RAM
+MNT-00077,VYE-0201,Preventivo,Finalizado,2025-08-29,2025-08-29,Técnico TI 2,0,Limpieza y actualización
+MNT-00078,VYE-0202,Correctivo,Finalizado,2022-09-22,2022-09-22,Proveedor externo,0,Limpieza y actualización
+MNT-00079,VYE-0210,Correctivo,Finalizado,2026-09-20,2026-09-20,Proveedor externo,0,Revisión general
+MNT-00080,VYE-0213,Preventivo,Finalizado,2025-09-26,2025-09-26,Técnico TI 1,0,Reinstalación de SO
+MNT-00081,VYE-0216,Preventivo,Finalizado,2025-11-27,2025-11-27,Proveedor externo,0,Cambio de disco a SSD
+MNT-00082,VYE-0224,Preventivo,Finalizado,2022-08-10,2022-08-10,Técnico TI 1,0,Reinstalación de SO
+MNT-00083,VYE-0227,Correctivo,Finalizado,2025-03-11,2025-03-11,Proveedor externo,350000,Reinstalación de SO
+MNT-00084,VYE-0230,Preventivo,Finalizado,2026-04-20,2026-04-20,Proveedor externo,0,Ampliación de RAM
+MNT-00085,VYE-0231,Preventivo,Finalizado,2026-06-27,2026-06-27,Técnico TI 1,0,Limpieza y actualización
+MNT-00086,VYE-0233,Correctivo,Finalizado,2024-11-07,2024-11-07,Proveedor externo,80000,Cambio de disco a SSD
+MNT-00087,VYE-0234,Correctivo,En curso,2025-10-29,,Proveedor externo,0,Ampliación de RAM
+MNT-00088,VYE-0239,Preventivo,Finalizado,2026-03-24,2026-03-24,Técnico TI 2,0,Revisión general
+MNT-00089,VYE-0240,Preventivo,Finalizado,2022-11-27,2022-11-27,Proveedor externo,0,Cambio de disco a SSD
+MNT-00090,VYE-0241,Preventivo,Finalizado,2025-09-12,2025-09-12,Proveedor externo,0,Ampliación de RAM
+MNT-00091,VYE-0242,Preventivo,Finalizado,2026-06-03,2026-06-03,Técnico TI 2,0,Ampliación de RAM
+MNT-00092,VYE-0244,Correctivo,Finalizado,2023-09-09,2023-09-09,Proveedor externo,0,Ampliación de RAM
+MNT-00093,VYE-0245,Preventivo,Finalizado,2024-01-06,2024-01-06,Técnico TI 2,0,Limpieza y actualización
+MNT-00094,VYE-0247,Preventivo,Finalizado,2021-12-18,2021-12-18,Técnico TI 2,0,Ampliación de RAM
+MNT-00095,VYE-0248,Preventivo,Finalizado,2021-10-05,2021-10-05,Técnico TI 2,0,Ampliación de RAM
+MNT-00096,VYE-0249,Correctivo,Finalizado,2023-09-22,2023-09-22,Técnico TI 2,350000,Limpieza y actualización
+MNT-00097,VYE-0252,Preventivo,Finalizado,2026-04-17,2026-04-17,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00098,VYE-0253,Preventivo,Finalizado,2026-05-29,2026-05-29,Técnico TI 1,0,Ampliación de RAM
+MNT-00099,VYE-0256,Correctivo,Finalizado,2022-06-22,2022-06-22,Técnico TI 2,150000,Reinstalación de SO
+MNT-00100,VYE-0257,Preventivo,Finalizado,2026-10-05,2026-10-05,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00101,VYE-0264,Correctivo,Finalizado,2025-07-06,2025-07-06,Técnico TI 1,150000,Cambio de disco a SSD
+MNT-00102,VYE-0267,Preventivo,Finalizado,2021-10-26,2021-10-26,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00103,VYE-0270,Preventivo,Finalizado,2025-11-15,2025-11-15,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00104,VYE-0271,Correctivo,Finalizado,2019-06-03,2019-06-03,Técnico TI 1,150000,Reinstalación de SO
+MNT-00105,VYE-0278,Preventivo,Finalizado,2025-07-09,2025-07-09,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00106,VYE-0279,Preventivo,Finalizado,2020-01-04,2020-01-04,Técnico TI 2,0,Limpieza y actualización
+MNT-00107,VYE-0281,Preventivo,Finalizado,2026-07-22,2026-07-22,Técnico TI 2,0,Revisión general
+MNT-00108,VYE-0289,Preventivo,Finalizado,2024-11-28,2024-11-28,Técnico TI 2,0,Reinstalación de SO
+MNT-00109,VYE-0290,Preventivo,Finalizado,2026-10-07,2026-10-07,Técnico TI 2,0,Limpieza y actualización
+MNT-00110,VYE-0292,Preventivo,Finalizado,2022-06-03,2022-06-03,Proveedor externo,0,Cambio de disco a SSD
+MNT-00111,VYE-0295,Correctivo,Finalizado,2021-10-20,2021-10-20,Proveedor externo,150000,Cambio de disco a SSD
+MNT-00112,VYE-0296,Preventivo,Finalizado,2023-12-11,2023-12-11,Técnico TI 2,0,Reinstalación de SO
+MNT-00113,VYE-0297,Preventivo,Finalizado,2025-11-29,2025-11-29,Técnico TI 1,0,Ampliación de RAM
+MNT-00114,VYE-0298,Correctivo,Finalizado,2024-11-24,2024-11-24,Técnico TI 1,80000,Cambio de disco a SSD
+MNT-00115,VYE-0300,Preventivo,Finalizado,2026-05-23,2026-05-23,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00116,VYE-0302,Preventivo,Finalizado,2026-05-17,2026-05-17,Técnico TI 1,0,Ampliación de RAM
+MNT-00117,VYE-0305,Preventivo,Finalizado,2023-09-24,2023-09-24,Técnico TI 2,0,Limpieza y actualización
+MNT-00118,VYE-0306,Preventivo,Finalizado,2021-12-29,2021-12-29,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00119,VYE-0307,Preventivo,Finalizado,2024-11-18,2024-11-18,Técnico TI 2,0,Ampliación de RAM
+MNT-00120,VYE-0309,Preventivo,Finalizado,2024-06-18,2024-06-18,Técnico TI 2,0,Ampliación de RAM
+MNT-00121,VYE-0318,Preventivo,Finalizado,2022-08-29,2022-08-29,Proveedor externo,0,Revisión general
+MNT-00122,VYE-0319,Preventivo,Finalizado,2021-08-12,2021-08-12,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00123,VYE-0326,Preventivo,Finalizado,2025-11-08,2025-11-08,Técnico TI 2,0,Ampliación de RAM
+MNT-00124,VYE-0335,Preventivo,Finalizado,2025-07-08,2025-07-08,Proveedor externo,0,Revisión general
+MNT-00125,VYE-0336,Preventivo,Finalizado,2026-05-27,2026-05-27,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00126,VYE-0344,Preventivo,Finalizado,2025-07-03,2025-07-03,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00127,VYE-0348,Preventivo,Finalizado,2026-01-03,2026-01-03,Técnico TI 1,0,Limpieza y actualización
+MNT-00128,VYE-0350,Preventivo,Finalizado,2023-05-29,2023-05-29,Técnico TI 1,0,Revisión general
+MNT-00129,VYE-0352,Correctivo,Finalizado,2024-09-18,2024-09-18,Técnico TI 1,0,Revisión general
+MNT-00130,VYE-0354,Preventivo,Finalizado,2025-01-04,2025-01-04,Proveedor externo,0,Revisión general
+MNT-00131,VYE-0355,Preventivo,Finalizado,2024-11-03,2024-11-03,Técnico TI 1,0,Limpieza y actualización
+MNT-00132,VYE-0356,Preventivo,Finalizado,2021-11-04,2021-11-04,Proveedor externo,0,Ampliación de RAM
+MNT-00133,VYE-0357,Preventivo,Finalizado,2022-10-17,2022-10-17,Proveedor externo,0,Limpieza y actualización
+MNT-00134,VYE-0359,Preventivo,Finalizado,2025-07-18,2025-07-18,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00135,VYE-0362,Preventivo,Finalizado,2026-08-04,2026-08-04,Técnico TI 1,0,Limpieza y actualización
+MNT-00136,VYE-0363,Correctivo,Finalizado,2023-06-19,2023-06-19,Técnico TI 1,80000,Cambio de disco a SSD
+MNT-00137,VYE-0370,Preventivo,Finalizado,2021-11-25,2021-11-25,Técnico TI 1,0,Reinstalación de SO
+MNT-00138,VYE-0373,Preventivo,Finalizado,2025-05-09,2025-05-09,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00139,VYE-0374,Preventivo,Finalizado,2025-06-14,2025-06-14,Técnico TI 1,0,Ampliación de RAM
+MNT-00140,VYE-0376,Preventivo,Finalizado,2021-10-01,2021-10-01,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00141,VYE-0379,Preventivo,Finalizado,2023-03-12,2023-03-12,Técnico TI 2,0,Limpieza y actualización
+MNT-00142,VYE-0383,Preventivo,Finalizado,2026-04-13,2026-04-13,Proveedor externo,0,Limpieza y actualización
+MNT-00143,VYE-0389,Preventivo,Finalizado,2025-12-09,2025-12-09,Técnico TI 1,0,Reinstalación de SO
+MNT-00144,VYE-0391,Correctivo,Finalizado,2026-09-16,2026-09-16,Proveedor externo,150000,Revisión general
+MNT-00145,VYE-0394,Preventivo,Finalizado,2022-07-11,2022-07-11,Técnico TI 2,0,Ampliación de RAM
+MNT-00146,VYE-0395,Correctivo,Finalizado,2024-06-24,2024-06-24,Proveedor externo,0,Limpieza y actualización
+MNT-00147,VYE-0396,Correctivo,Finalizado,2024-11-01,2024-11-01,Técnico TI 1,150000,Cambio de disco a SSD
+MNT-00148,VYE-0398,Preventivo,Finalizado,2026-10-25,2026-10-25,Técnico TI 1,0,Revisión general
+MNT-00149,VYE-0399,Preventivo,Finalizado,2026-09-20,2026-09-20,Técnico TI 1,0,Revisión general
+MNT-00150,VYE-0401,Correctivo,Finalizado,2024-10-20,2024-10-20,Proveedor externo,0,Limpieza y actualización
+MNT-00151,VYE-0405,Preventivo,Finalizado,2023-04-27,2023-04-27,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00152,VYE-0408,Correctivo,Finalizado,2026-08-15,2026-08-15,Técnico TI 2,350000,Revisión general
+MNT-00153,VYE-0410,Preventivo,Finalizado,2022-10-26,2022-10-26,Técnico TI 2,0,Ampliación de RAM
+MNT-00154,VYE-0414,Correctivo,Finalizado,2022-06-26,2022-06-26,Técnico TI 2,80000,Reinstalación de SO
+MNT-00155,VYE-0415,Preventivo,Finalizado,2025-03-29,2025-03-29,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00156,VYE-0418,Preventivo,Finalizado,2026-10-23,2026-10-23,Técnico TI 1,0,Ampliación de RAM
+MNT-00157,VYE-0419,Preventivo,Finalizado,2025-09-17,2025-09-17,Técnico TI 2,0,Limpieza y actualización
+MNT-00158,VYE-0423,Preventivo,Finalizado,2025-09-14,2025-09-14,Técnico TI 2,0,Limpieza y actualización
+MNT-00159,VYE-0428,Preventivo,Finalizado,2026-09-17,2026-09-17,Técnico TI 1,0,Limpieza y actualización
+MNT-00160,VYE-0429,Preventivo,Finalizado,2022-11-02,2022-11-02,Técnico TI 1,0,Reinstalación de SO
+MNT-00161,VYE-0432,Correctivo,Finalizado,2025-02-28,2025-02-28,Técnico TI 2,150000,Cambio de disco a SSD
+MNT-00162,VYE-0433,Preventivo,Finalizado,2026-06-10,2026-06-10,Técnico TI 2,0,Limpieza y actualización
+MNT-00163,VYE-0434,Correctivo,Finalizado,2024-07-13,2024-07-13,Técnico TI 2,0,Cambio de disco a SSD
+MNT-00164,VYE-0440,Preventivo,Finalizado,2026-07-19,2026-07-19,Técnico TI 1,0,Ampliación de RAM
+MNT-00165,VYE-0443,Preventivo,Finalizado,2026-09-07,2026-09-07,Técnico TI 1,0,Reinstalación de SO
+MNT-00166,VYE-0447,Correctivo,Finalizado,2025-02-24,2025-02-24,Proveedor externo,0,Limpieza y actualización
+MNT-00167,VYE-0449,Preventivo,Finalizado,2022-10-02,2022-10-02,Técnico TI 2,0,Revisión general
+MNT-00168,VYE-0451,Preventivo,Finalizado,2025-10-25,2025-10-25,Técnico TI 1,0,Reinstalación de SO
+MNT-00169,VYE-0454,Preventivo,Finalizado,2026-01-20,2026-01-20,Técnico TI 2,0,Reinstalación de SO
+MNT-00170,VYE-0455,Preventivo,Finalizado,2026-03-26,2026-03-26,Proveedor externo,0,Limpieza y actualización
+MNT-00171,VYE-0460,Correctivo,Finalizado,2026-10-29,2026-10-29,Proveedor externo,80000,Reinstalación de SO
+MNT-00172,VYE-0464,Correctivo,Finalizado,2025-07-20,2025-07-20,Técnico TI 2,80000,Ampliación de RAM
+MNT-00173,VYE-0468,Preventivo,Finalizado,2022-10-17,2022-10-17,Proveedor externo,0,Cambio de disco a SSD
+MNT-00174,VYE-0471,Preventivo,Finalizado,2025-11-20,2025-11-20,Proveedor externo,0,Reinstalación de SO
+MNT-00175,VYE-0472,Preventivo,Finalizado,2022-04-23,2022-04-23,Técnico TI 1,0,Cambio de disco a SSD
+MNT-00176,VYE-0473,Preventivo,Finalizado,2024-08-10,2024-08-10,Técnico TI 2,0,Reinstalación de SO
+MNT-00177,VYE-0475,Correctivo,Finalizado,2023-05-28,2023-05-28,Proveedor externo,0,Reinstalación de SO
+MNT-00178,VYE-0477,Preventivo,Finalizado,2024-12-29,2024-12-29,Proveedor externo,0,Revisión general
+MNT-00179,VYE-0478,Correctivo,Finalizado,2026-04-10,2026-04-10,Proveedor externo,350000,Limpieza y actualización
+MNT-00180,VYE-0483,Preventivo,Finalizado,2026-05-28,2026-05-28,Técnico TI 2,0,Reinstalación de SO
+MNT-00181,VYE-0484,Preventivo,Finalizado,2019-07-12,2019-07-12,Proveedor externo,0,Reinstalación de SO
+MNT-00182,VYE-0485,Correctivo,Finalizado,2024-11-12,2024-11-12,Técnico TI 2,0,Limpieza y actualización
+MNT-00183,VYE-0490,Correctivo,En curso,2025-12-10,,Técnico TI 2,150000,Reinstalación de SO
+MNT-00184,VYE-0493,Correctivo,Finalizado,2026-04-22,2026-04-22,Técnico TI 2,80000,Revisión general
+MNT-00185,VYE-0495,Preventivo,Finalizado,2026-03-30,2026-03-30,Proveedor externo,0,Revisión general
+MNT-00186,VYE-0498,Preventivo,Finalizado,2026-08-22,2026-08-22,Técnico TI 2,0,Revisión general
+MNT-00187,VYE-0500,Preventivo,Finalizado,2025-05-06,2025-05-06,Proveedor externo,0,Ampliación de RAM

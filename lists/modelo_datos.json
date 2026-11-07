@@ -1,0 +1,101 @@
+{
+  "proyecto": "Software de Inventariado Físico de Activos Tecnológicos - Vías y Explanaciones",
+  "version": "1.0",
+  "descripcion": "Esquema de las listas de Microsoft Lists (SharePoint) que funcionan como base de datos del prototipo.",
+  "listas": [
+    {
+      "nombre": "Sedes",
+      "descripcion": "Ubicaciones físicas: sede principal y operaciones/obras.",
+      "columnas": [
+        {"nombre": "Title", "mostrar": "Nombre sede", "tipo": "Text", "obligatorio": true},
+        {"nombre": "Ciudad", "tipo": "Text"},
+        {"nombre": "TipoSede", "tipo": "Choice", "opciones": ["Sede principal", "Operación / Obra", "Bodega"]},
+        {"nombre": "Activa", "tipo": "Boolean"}
+      ]
+    },
+    {
+      "nombre": "Activos",
+      "descripcion": "Catálogo maestro de activos tecnológicos (hoja de vida del equipo).",
+      "columnas": [
+        {"nombre": "Title", "mostrar": "Placa / Código", "tipo": "Text", "obligatorio": true, "unico": true},
+        {"nombre": "Serial", "tipo": "Text", "obligatorio": true},
+        {"nombre": "TipoActivo", "tipo": "Choice", "opciones": ["Portátil", "Escritorio", "Monitor", "Impresora", "Periférico", "Móvil", "Equipo de red"]},
+        {"nombre": "Marca", "tipo": "Text"},
+        {"nombre": "Modelo", "tipo": "Text"},
+        {"nombre": "Procesador", "tipo": "Text"},
+        {"nombre": "RAM_GB", "tipo": "Number"},
+        {"nombre": "Almacenamiento_GB", "tipo": "Number"},
+        {"nombre": "SistemaOperativo", "tipo": "Text"},
+        {"nombre": "FechaCompra", "tipo": "DateTime"},
+        {"nombre": "FechaFinGarantia", "tipo": "DateTime"},
+        {"nombre": "ValorCompra", "tipo": "Currency"},
+        {"nombre": "Estado", "tipo": "Choice", "opciones": ["Disponible", "Asignado", "En mantenimiento", "Dado de baja"]},
+        {"nombre": "Condicion", "tipo": "Choice", "opciones": ["Bueno", "Regular", "Malo"]},
+        {"nombre": "Sede", "tipo": "Lookup", "lista": "Sedes"},
+        {"nombre": "Area", "tipo": "Choice", "opciones": ["Dirección", "TI", "Administrativa / Financiera", "Operaciones / Campo", "Talento Humano"]},
+        {"nombre": "CustodioNombre", "tipo": "Text"},
+        {"nombre": "CustodioCorreo", "tipo": "Text"},
+        {"nombre": "UltimoMantenimiento", "tipo": "DateTime"},
+        {"nombre": "ProximoMantenimiento", "tipo": "DateTime"},
+        {"nombre": "Observaciones", "tipo": "Note"}
+      ]
+    },
+    {
+      "nombre": "Asignaciones",
+      "descripcion": "Historial de movimientos (trazabilidad): asignación, transferencia y devolución.",
+      "columnas": [
+        {"nombre": "Title", "mostrar": "Consecutivo", "tipo": "Text"},
+        {"nombre": "Activo", "tipo": "Lookup", "lista": "Activos"},
+        {"nombre": "TipoMovimiento", "tipo": "Choice", "opciones": ["Asignación", "Transferencia", "Devolución"]},
+        {"nombre": "CustodioNombre", "tipo": "Text"},
+        {"nombre": "CustodioCorreo", "tipo": "Text"},
+        {"nombre": "Area", "tipo": "Text"},
+        {"nombre": "SedeDestino", "tipo": "Lookup", "lista": "Sedes"},
+        {"nombre": "FechaMovimiento", "tipo": "DateTime"},
+        {"nombre": "RegistradoPor", "tipo": "Text"},
+        {"nombre": "ActaAceptada", "tipo": "Boolean"},
+        {"nombre": "Observaciones", "tipo": "Note"}
+      ]
+    },
+    {
+      "nombre": "Mantenimientos",
+      "descripcion": "Mantenimientos preventivos y correctivos por activo.",
+      "columnas": [
+        {"nombre": "Title", "mostrar": "Consecutivo", "tipo": "Text"},
+        {"nombre": "Activo", "tipo": "Lookup", "lista": "Activos"},
+        {"nombre": "TipoMantenimiento", "tipo": "Choice", "opciones": ["Preventivo", "Correctivo"]},
+        {"nombre": "EstadoMantenimiento", "tipo": "Choice", "opciones": ["Programado", "En curso", "Finalizado", "Cancelado"]},
+        {"nombre": "FechaProgramada", "tipo": "DateTime"},
+        {"nombre": "FechaRealizada", "tipo": "DateTime"},
+        {"nombre": "Tecnico", "tipo": "Text"},
+        {"nombre": "Costo", "tipo": "Currency"},
+        {"nombre": "Descripcion", "tipo": "Note"}
+      ]
+    },
+    {
+      "nombre": "VerificacionesInventario",
+      "descripcion": "Registros del inventario físico en sitio (escaneo de placa con código QR/barras).",
+      "columnas": [
+        {"nombre": "Title", "mostrar": "Jornada", "tipo": "Text"},
+        {"nombre": "Activo", "tipo": "Lookup", "lista": "Activos"},
+        {"nombre": "FechaVerificacion", "tipo": "DateTime"},
+        {"nombre": "Verificador", "tipo": "Text"},
+        {"nombre": "SedeVerificada", "tipo": "Lookup", "lista": "Sedes"},
+        {"nombre": "CoincideUbicacion", "tipo": "Boolean"},
+        {"nombre": "CoincideCustodio", "tipo": "Boolean"},
+        {"nombre": "CondicionObservada", "tipo": "Choice", "opciones": ["Bueno", "Regular", "Malo"]},
+        {"nombre": "Novedad", "tipo": "Note"}
+      ]
+    },
+    {
+      "nombre": "UsuariosApp",
+      "descripcion": "Control de roles y niveles de privilegio dentro de la app.",
+      "columnas": [
+        {"nombre": "Title", "mostrar": "Nombre", "tipo": "Text"},
+        {"nombre": "Correo", "tipo": "Text", "obligatorio": true},
+        {"nombre": "Rol", "tipo": "Choice", "opciones": ["Administrador", "Inventario", "Consulta"]},
+        {"nombre": "Habilitado", "tipo": "Boolean"}
+      ]
+    }
+  ]
+}
