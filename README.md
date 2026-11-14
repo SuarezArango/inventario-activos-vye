@@ -1,44 +1,64 @@
-# Software de Inventariado Físico de Activos Tecnológicos – Vías y Explanaciones
+# Inventario de Activos TI – Vías y Explanaciones
 
-Prototipo funcional (TRL5) del proyecto de grado – Ingeniería de Sistemas, UNAD (202016907).
-**Autores:** Camilo Suárez Arnago · Liliana Amparo Viana Londoño · **Tutor:** Orlando Gómez Barboza
+Prototipo funcional (**TRL5**) del proyecto de grado de Ingeniería de Sistemas – UNAD (curso 202016907, Fase 4):
+*Desarrollo e implementación de una solución de gestión de activos tecnológicos basada en Microsoft Power Platform
+para la empresa Vías y Explanaciones.*
 
-Solución *low-code* en Microsoft Power Platform para registrar, asignar, verificar físicamente y analizar
-≈500 activos tecnológicos, desarrollada con **Scrum**.
+**Autores:** Camilo Suárez Arango · Liliana Amparo Viana Londoño · **Tutor:** Orlando Gómez Barboza
+
+Solución *low-code* en Microsoft Power Platform para registrar, asignar, verificar físicamente (QR) y analizar
+500 activos tecnológicos en 4 sedes, desarrollada con **Scrum** en tres sprints.
+
+## Qué incluye el prototipo
+| Componente | Qué hace | Documentación |
+|------------|----------|---------------|
+| **Microsoft Lists (SharePoint)** | Base de datos: activos, Asignaciones, Mantenimientos, VerificacionesInventario, UsuariosApp | `lists/modelo_datos.json` |
+| **Power Apps** – app *Inventario VYE* | Búsqueda, registro, roles, asignación/transferencia/devolución con historial, baja, inventario físico con QR | `powerapps/` |
+| **FL01** – Acta de asignación | Correo HTML al custodio cuando se registra una asignación o transferencia | `flows/flujos_power_automate.md` |
+| **FL02** – Mantenimiento preventivo | Correo diario (7:00 a. m.) con los equipos de los próximos 7 días y conteo de vencidos | `flows/flujos_power_automate.md` |
+| **FL03** – Garantías por vencer | Correo mensual con garantías que vencen en 30 días | `flows/flujos_power_automate.md` |
+| **Power BI** – Tablero | 8 medidas DAX, indicadores por sede, estado, antigüedad y tipo | `powerbi/medidas_dax.md` |
 
 ## Arquitectura
 ```
- Usuarios (web / móvil)
+ Usuarios (web / app móvil Power Apps)
         │
-   Power Apps (Canvas) ──► Office 365 Users (directorio)
-        │   lectura/escritura
+   Power Apps (lienzo)
+        │   lectura / escritura
    Microsoft Lists (SharePoint Online)
-   Sedes · Activos · Asignaciones · Mantenimientos · VerificacionesInventario · UsuariosApp
-        │ disparadores / consultas             │ conector SharePoint
-   Power Automate (FL01–FL04) ──► Outlook   Power BI (tablero gerencial)
+   activos · Asignaciones · Mantenimientos · VerificacionesInventario · UsuariosApp
+        │ disparadores / consultas OData          │ conector SharePoint
+   Power Automate (FL01–FL03) ──► Outlook       Power BI Desktop (tablero)
 ```
+
+## Guía rápida para revisar el repositorio
+1. **Evidencias de funcionamiento:** `tests/evidencias/` (pantallazos de la app publicada, flujos, QR y Power BI).
+2. **Plan y resultados de pruebas:** `tests/plan_pruebas.md` (PF-04 a PF-11 aprobadas).
+3. **Metodología y backlog:** `docs/metodologia_scrum.md`, `docs/product_backlog.md`.
+4. **Fórmulas reales de la app (Power Fx):** `powerapps/es-CO/` y la pantalla QR en `powerapps/VerificacionScreen.pa.yaml`.
+5. **Presentación paso a paso:** `docs/presentacion/` (fuentes de las diapositivas).
 
 ## Estructura del repositorio
 | Carpeta | Contenido |
 |---------|-----------|
-| `docs/` | Metodología Scrum, product backlog |
+| `docs/` | Metodología Scrum, product backlog, etiquetas QR (`etiquetas_qr.pdf`), presentación |
 | `lists/` | Modelo de datos (esquema de las listas) |
-| `scripts/` | Aprovisionamiento de listas (PnP PowerShell) y generador de datos de prueba (Python) |
+| `scripts/` | Generador de datos de prueba y de etiquetas QR (Python), aprovisionamiento (PnP PowerShell), corrección de fechas (JS) |
 | `data/` | Datos sintéticos de prueba (CSV) |
-| `powerapps/` | Fórmulas Power Fx por pantalla y, al exportar, el paquete `.msapp` de la app |
-| `flows/` | Diseño de los flujos y paquetes exportados (.zip) |
-| `powerbi/` | Modelo, medidas DAX y archivo `.pbix` |
-| `tests/` | Plan y registro de pruebas, SUS |
+| `powerapps/` | Fórmulas Power Fx por pantalla (`es-CO` = separadores en español) y YAML de pantallas |
+| `flows/` | Diseño e implementación real de los flujos FL01–FL03 |
+| `powerbi/` | Medidas DAX, layout del tablero y archivo `.pbix` |
+| `tests/` | Plan y registro de pruebas, evidencias |
 
-## Puesta en marcha
-1. Crear un sitio de SharePoint (ej. `InventarioTI`).
-2. `python scripts/generar_datos_prueba.py --activos 500`
-3. `./scripts/aprovisionar_listas.ps1 -SiteUrl <url-del-sitio> -ClientId <guid> -CargarDatos`
-4. En Power Apps: *Crear > Aplicación de lienzo en blanco*, agregar las 6 listas y Office 365 Users como orígenes
-   de datos y construir las pantallas pegando las fórmulas de `powerapps/` (ver el orden 01–06).
-5. Crear los flujos según `flows/flujos_power_automate.md`.
-6. Power BI Desktop: conectar a las listas y crear las medidas de `powerbi/medidas_dax.md`.
-7. Exportar la app (`Archivo > Guardar como > Este equipo`, .msapp), los flujos (.zip) y el .pbix a sus carpetas y hacer *commit*.
+## Puesta en marcha (resumen)
+1. Crear un equipo de Teams / sitio de SharePoint (zona horaria UTC-05 Bogotá, región Español – Colombia).
+2. `python scripts/generar_datos_prueba.py` e importar `data/activos.csv` como lista **activos** (columnas de opción con selección única y fechas *solo fecha*).
+3. Crear las demás listas según `lists/modelo_datos.json`.
+4. Power Apps: *Comenzar con datos* → lista activos y personalizar con las fórmulas de `powerapps/es-CO/`.
+5. Power Automate: crear FL01–FL03 según `flows/flujos_power_automate.md` (ojo con los nombres internos `field_N`).
+6. Power BI Desktop: *Lista de SharePoint Online* y medidas de `powerbi/medidas_dax.md`.
 
-## Versionado
-`main` = versión estable · ramas `sprint-N` · etiquetas `v0.1` (Sprint 1), `v0.2` (Sprint 2), `v1.0` (TRL5).
+## Limitaciones conocidas
+- Desplegado en el tenant académico de la UNAD: solo cuentas institucionales entran a la app.
+- Datos sintéticos (500 activos) con la estructura de un inventario real.
+- Power BI en Desktop: el tenant académico no permite activar Power BI en la web.
