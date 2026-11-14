@@ -105,7 +105,9 @@ La consulta OData se validó antes contra la API REST de SharePoint (3 próximos
 **Hallazgo (datos):** las fechas importadas desde el CSV quedaron guardadas como medianoche UTC; con la zona
 horaria del sitio (UTC-05 Bogotá) se muestran un día antes (p. ej. VYE-0441: 14-11-2026 en el CSV, 13-11-2026
 en SharePoint). Afecta solo a los datos sintéticos de la carga inicial; los registros creados desde la app
-guardan la fecha correcta. Corrección propuesta: sumar 5 horas a las columnas de fecha con un script por la API REST.
+guardan la fecha correcta. **Corregido el 13/11/2026:** con un script en el navegador (API REST de SharePoint, peticiones MERGE) se movieron las
+4 columnas de fecha (field_9, field_10, field_18, field_19) de los 500 registros de `T00:00:00Z` a `T05:00:00Z`
+(medianoche de Bogotá). 500 registros actualizados, 0 errores. Script: `scripts/corregir_fechas_sharepoint.js`.
 
 **Mejora futura:** crear automáticamente un registro *Programado* en la lista Mantenimientos por cada equipo próximo
 (si no existe), y omitir el correo cuando no haya equipos.
