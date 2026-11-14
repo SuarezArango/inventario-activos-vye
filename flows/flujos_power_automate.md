@@ -109,3 +109,19 @@ guardan la fecha correcta. Corrección propuesta: sumar 5 horas a las columnas d
 
 **Mejora futura:** crear automáticamente un registro *Programado* en la lista Mantenimientos por cada equipo próximo
 (si no existe), y omitir el correo cuando no haya equipos.
+
+---
+
+## Implementación real de FL03 (13/11/2026)
+Flujo **"FL03 Alerta de garantias por vencer"** (copia de FL02 con *Guardar como*; las copias quedan desactivadas y hay que activarlas).
+
+1. **Recurrence**: cada 1 mes desde 2026-12-01T12:00:00Z (día 1, 7:00 a. m. hora Colombia).
+2. **GarantiasPorVencer** – *Obtener elementos* (activos), orden `field_10 asc`, filtro:
+   `field_10 ge '@{formatDateTime(convertFromUtc(utcNow(),'SA Pacific Standard Time'),'yyyy-MM-dd')}' and field_10 le '@{formatDateTime(addDays(convertFromUtc(utcNow(),'SA Pacific Standard Time'),30),'yyyy-MM-dd')}' and field_12 ne 'Dado de baja'`
+3. **SinGarantia** – *Obtener elementos* (activos), primeros 5000, filtro `field_10 lt '<hoy>' and field_12 ne 'Dado de baja'`.
+4. **Seleccionar** desde `body('GarantiasPorVencer')?['value']`: Placa, Tipo, Marca y modelo, Serial (field_1), Sede,
+   Fin de garantía (field_10, dd-MM-yyyy) y Valor de compra (`formatNumber(field_11,'C0','es-CO')`).
+5. **Crear tabla HTML** y **Enviar correo (V2)** al área administrativa y financiera (en el prototipo, la cuenta UNAD
+   del estudiante), con la tabla y el conteo de equipos activos sin garantía vigente.
+
+Prueba PF-10 (13/11/2026, ejecución manual): estado *Correcto*. Con los datos de prueba hay 6 equipos con garantía por vencer en 30 días.
