@@ -42,3 +42,41 @@ como paquete (`Exportar > Paquete (.zip)`) y el .zip se guarda en esta carpeta p
 
 > Nota: en las consultas OData de SharePoint las columnas de elección se filtran por su texto (`Estado ne 'Dado de baja'`)
 > y las de búsqueda por `Columna/Id`. Si un filtro falla, aplicar el filtro con la acción *Filtrar matriz*.
+
+---
+
+## Implementación real de FL01 (13/11/2026)
+Flujo **"FL01 Notificar asignacion de activo"** (flujo de nube automatizado, conexión Outlook UNAD).
+
+1. **Desencadenador:** SharePoint – *Cuando se crea un elemento* (sitio Inventario VYE, lista **Asignaciones**).
+   Condición del desencadenador: `@not(equals(triggerOutputs()?['body/TipoMovimiento/Value'], 'Devolución'))`
+2. **Obtener elemento** (lista **activos**), Id = `@{triggerOutputs()?['body/Activo/Id']}`
+3. **Enviar correo electrónico (V2)**
+   - Para: `@{triggerOutputs()?['body/CustodioCorreo']}`
+   - Asunto: `Acta de entrega del activo @{triggerOutputs()?['body/Activo/Value']} - Vias y Explanaciones`
+   - Cuerpo HTML: saludo, tabla (placa, tipo, marca y modelo, serial, sede, área, fecha, registrado por),
+     cláusula de custodia y observaciones.
+
+### Nombres internos de la lista `activos`
+La lista se creó importando un CSV, por eso sus columnas tienen nombres internos `field_N`.
+Power Automate usa los nombres internos:
+
+| Columna | Interno | Columna | Interno |
+|---|---|---|---|
+| Serial | field_1 | Estado | field_12 |
+| TipoActivo | field_2 | Condicion | field_13 |
+| Marca | field_3 | Sede | field_14 |
+| Modelo | field_4 | Area | field_15 |
+| Procesador | field_5 | CustodioNombre | field_16 |
+| RAM_GB | field_6 | CustodioCorreo | field_17 |
+| Almacenamiento_GB | field_7 | UltimoMantenimiento | field_18 |
+| SistemaOperativo | field_8 | ProximoMantenimiento | field_19 |
+| FechaCompra | field_9 | Observaciones | field_20 |
+| FechaFinGarantia | field_10 | ValorCompra | field_11 |
+
+Ejemplo: tipo de activo = `body('Obtener_elemento')?['field_2']?['Value']`.
+Las listas Asignaciones, Mantenimientos y VerificacionesInventario se crearon por API y sí tienen nombres internos legibles.
+
+### Prueba PF-06
+Asignación de VYE-0010 con el correo del estudiante como custodio: el acta llegó en menos de 5 minutos (13/11/2026 20:23).
+Primera ejecución sin tipo, marca y serial (nombres internos); corregido el mismo día.
