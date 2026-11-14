@@ -15,7 +15,7 @@ Completar las columnas *Resultado* y *Evidencia* durante el Sprint 3.
 | PF-07 | HU-06 | Escanear QR válido | Muestra activo y coincidencia de ubicación | Aprobada (13/11/2026): entrada manual en Studio (VYE-0001 coincide, VYE-0002 no coincide) y escaneo con cámara desde la app móvil Power Apps | sprint2_HU06_verificacion_coincide.jpg |
 | PF-08 | HU-06 | Escanear placa inexistente | Mensaje de placa no registrada | Aprobada (VYE-9999) | sprint2_HU06_jornada_y_placa_inexistente.jpg |
 | PF-09 | HU-08 | Ejecutar FL02 manualmente | Envía resumen con los equipos de los próximos 7 días y el conteo de vencidos | Aprobada (13/11/2026): 3 equipos próximos (VYE-0441, VYE-0427, VYE-0300) y conteo de vencidos | historial de ejecución FL02 |
-| PF-10 | HU-10 | Actualizar informe Power BI | KPIs coinciden con conteos de la lista | | |
+| PF-10 | HU-10 | Actualizar informe Power BI | KPIs coinciden con conteos de la lista | Aprobada (14/11/2026): Total 500 = 500 registros de la lista | sprint3_HU10_tablero_powerbi.jpg |
 | PF-11 | HU-09 | Ejecutar FL03 manualmente | Correo a financiera con garantías por vencer en 30 días | Aprobada (13/11/2026) | historial de ejecución FL03 |
 
 ## 2. Pruebas de seguridad y roles
