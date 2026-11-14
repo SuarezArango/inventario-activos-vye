@@ -96,3 +96,12 @@ If(IsBlank(varVerif); Notify("Placa no registrada en el inventario: " & First(Ba
 - Acceso: botón `btnIrVerificacion` "Inventario físico (QR)" en el encabezado de MainScreen1, visible con `gPuedeEditar`.
 - Nota: la columna Area de activos es de opción, por eso en el texto se usa `varVerif.Area.Value`.
 - Etiquetas de prueba: `python scripts/generar_etiquetas_qr.py` → `docs/etiquetas_qr.pdf` (QR = placa).
+
+## Sprint 3 – Ajustes del formulario (13/11/2026)
+- Se actualizó el origen de datos `activos` en Studio (Datos → activos → Actualizar) para que la app reconozca las
+  columnas de fecha como *solo fecha*.
+- Se quitaron y volvieron a agregar las tarjetas FechaCompra, FechaFinGarantia, UltimoMantenimiento y ProximoMantenimiento:
+  ahora usan el selector de fecha sin hora ni minutos.
+- Selector de ProximoMantenimiento: `InputTextPlaceholder = "Sin fecha"` (antes mostraba el ejemplo "31 diciembre 2001"
+  cuando el campo estaba vacío).
+- Tarjeta Title desbloqueada y `DisplayName = "Placa"`.
