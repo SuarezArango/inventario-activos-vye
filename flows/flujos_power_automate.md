@@ -124,4 +124,4 @@ Flujo **"FL03 Alerta de garantias por vencer"** (copia de FL02 con *Guardar como
 5. **Crear tabla HTML** y **Enviar correo (V2)** al área administrativa y financiera (en el prototipo, la cuenta UNAD
    del estudiante), con la tabla y el conteo de equipos activos sin garantía vigente.
 
-Prueba PF-10 (13/11/2026, ejecución manual): estado *Correcto*. Con los datos de prueba hay 6 equipos con garantía por vencer en 30 días.
+Prueba PF-11 (13/11/2026, ejecución manual): estado *Correcto*. Con los datos de prueba hay 6 equipos con garantía por vencer en 30 días.
