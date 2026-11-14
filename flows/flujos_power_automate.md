@@ -80,3 +80,32 @@ Las listas Asignaciones, Mantenimientos y VerificacionesInventario se crearon po
 ### Prueba PF-06
 Asignación de VYE-0010 con el correo del estudiante como custodio: el acta llegó en menos de 5 minutos (13/11/2026 20:23).
 Primera ejecución sin tipo, marca y serial (nombres internos); corregido el mismo día.
+
+---
+
+## Implementación real de FL02 (13/11/2026)
+Flujo **"FL02 Recordatorio de mantenimiento preventivo"** (flujo de nube programado, todos los días 12:00 UTC = 7:00 a. m. hora Colombia).
+
+1. **Recurrence**: intervalo 1 día, hora de inicio 2026-11-13T12:00:00Z.
+2. **Proximos** – SharePoint *Obtener elementos* (lista activos), orden `field_19 asc`, filtro:
+   `field_19 ge '@{formatDateTime(convertFromUtc(utcNow(),'SA Pacific Standard Time'),'yyyy-MM-dd')}' and field_19 le '@{formatDateTime(addDays(convertFromUtc(utcNow(),'SA Pacific Standard Time'),7),'yyyy-MM-dd')}' and field_12 ne 'Dado de baja'`
+3. **Vencidos** – *Obtener elementos* (activos), primeros 5000, filtro:
+   `field_19 lt '@{formatDateTime(convertFromUtc(utcNow(),'SA Pacific Standard Time'),'yyyy-MM-dd')}' and field_12 ne 'Dado de baja'`
+4. **Seleccionar** desde `body('Proximos')?['value']`, mapa (modo texto):
+   Placa = Title, Tipo = field_2/Value, Marca y modelo = field_3 + field_4, Sede = field_14/Value,
+   Custodio = coalesce(field_16,'Sin custodio'), Mantenimiento programado = formatDateTime(field_19,'dd-MM-yyyy').
+5. **Crear tabla HTML** desde `body('Seleccionar')`.
+6. **Enviar correo electrónico (V2)** al equipo de TI (en el prototipo, la cuenta UNAD del estudiante):
+   asunto con `length(body('Proximos')?['value'])` equipos; cuerpo HTML con estilos de tabla, la tabla y el
+   conteo `length(body('Vencidos')?['value'])` de mantenimientos vencidos.
+
+Prueba PF-09 (13/11/2026, ejecución manual): todas las acciones correctas; 3 equipos en los próximos 7 días.
+La consulta OData se validó antes contra la API REST de SharePoint (3 próximos, 234 vencidos).
+
+**Hallazgo (datos):** las fechas importadas desde el CSV quedaron guardadas como medianoche UTC; con la zona
+horaria del sitio (UTC-05 Bogotá) se muestran un día antes (p. ej. VYE-0441: 14-11-2026 en el CSV, 13-11-2026
+en SharePoint). Afecta solo a los datos sintéticos de la carga inicial; los registros creados desde la app
+guardan la fecha correcta. Corrección propuesta: sumar 5 horas a las columnas de fecha con un script por la API REST.
+
+**Mejora futura:** crear automáticamente un registro *Programado* en la lista Mantenimientos por cada equipo próximo
+(si no existe), y omitir el correo cuando no haya equipos.
